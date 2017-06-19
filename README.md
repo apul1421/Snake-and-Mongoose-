@@ -1,6 +1,6 @@
-## Snake-and-Mongoose Problem
+# Snake-and-Mongoose Problem
 
-# Problem 
+## Problem 
 
 In Snakeland, there are some snakes and mongooses. They are lined up in a row. The information about how exactly they are lined up it is provided to you by a string of length n. If the i-th character of this string is 's', then it means that there is a snake at the i-th position, whereas the character 'm' denotes a mongoose.
 
@@ -22,14 +22,14 @@ Constraints
 
 ## Example
 
-# Input
+### Input
 4
 sm
 ssm
 sms
 ssmmmssss
 
-# Output
+### Output
 mongooses
 tie
 tie
