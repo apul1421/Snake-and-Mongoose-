@@ -24,15 +24,13 @@ Constraints
 
 ### Input
 4
-
 sm
-
 ssm
-
 sms
 ssmmmssss
 
 ### Output
+
 mongooses
 tie
 tie
